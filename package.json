@@ -1,7 +1,7 @@
 {
   "name": "node_crash",
   "version": "1.0.0",
-  "description": "Node Crash Course",
+  "description": "Node Server",
   "main": "index.js",
   "scripts": {
     "start": "node index",
